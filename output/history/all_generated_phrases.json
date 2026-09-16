@@ -22649,7 +22649,37 @@
       "swedish": "Jag mjukar upp rädslan, fortsätter.",
       "category": "Purpose",
       "generated_at": "2026-09-16T17:33:30.525911"
+    },
+    {
+      "english": "Be kind, then speak Swedish",
+      "swedish": "Var snäll, tala svenska",
+      "category": "Kindness",
+      "generated_at": "2026-09-16T19:23:05.299127"
+    },
+    {
+      "english": "Offer warmth, correct gently",
+      "swedish": "Ge värme, rätta mjukt",
+      "category": "Kindness",
+      "generated_at": "2026-09-16T19:23:05.299139"
+    },
+    {
+      "english": "Help someone, even quietly",
+      "swedish": "Hjälp någon, även tyst",
+      "category": "Kindness",
+      "generated_at": "2026-09-16T19:23:05.299140"
+    },
+    {
+      "english": "Use polite words, now",
+      "swedish": "Använd artiga ord, nu",
+      "category": "Kindness",
+      "generated_at": "2026-09-16T19:23:05.299141"
+    },
+    {
+      "english": "Listen close, then answer",
+      "swedish": "Lyssna noga, sen svara",
+      "category": "Kindness",
+      "generated_at": "2026-09-16T19:23:05.299142"
     }
   ],
-  "last_updated": "2026-09-16T17:33:30.525912"
+  "last_updated": "2026-09-16T19:23:05.299145"
 }
