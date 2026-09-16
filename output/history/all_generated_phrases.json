@@ -22679,7 +22679,37 @@
       "swedish": "Lyssna noga, sen svara",
       "category": "Kindness",
       "generated_at": "2026-09-16T19:23:05.299142"
+    },
+    {
+      "english": "Choose Swedish, begin now.",
+      "swedish": "Välj svenska, börja nu.",
+      "category": "Purpose",
+      "generated_at": "2026-09-16T21:49:56.597654"
+    },
+    {
+      "english": "Say one sentence, build confidence.",
+      "swedish": "Säg en mening, stärk dig.",
+      "category": "Purpose",
+      "generated_at": "2026-09-16T21:49:56.597663"
+    },
+    {
+      "english": "Turn mistakes into fuel, speak.",
+      "swedish": "Gör fel till bränsle, tala.",
+      "category": "Purpose",
+      "generated_at": "2026-09-16T21:49:56.597664"
+    },
+    {
+      "english": "Use short answers, get moving.",
+      "swedish": "Svar kort, kör igång.",
+      "category": "Purpose",
+      "generated_at": "2026-09-16T21:49:56.597665"
+    },
+    {
+      "english": "Pronounce bravely, then adjust.",
+      "swedish": "Uttala modigt, justera sen.",
+      "category": "Purpose",
+      "generated_at": "2026-09-16T21:49:56.597666"
     }
   ],
-  "last_updated": "2026-09-16T19:23:05.299145"
+  "last_updated": "2026-09-16T21:49:56.597668"
 }
