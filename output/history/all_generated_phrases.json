@@ -23489,7 +23489,37 @@
       "swedish": "Låt tiden pröva planen",
       "category": "Patience",
       "generated_at": "2026-09-22T00:40:16.405362"
+    },
+    {
+      "english": "You wrote, you relaxed, go",
+      "swedish": "Du skrev, du slappnar av, kör",
+      "category": "Joy",
+      "generated_at": "2026-09-22T05:31:31.055470"
+    },
+    {
+      "english": "Correct, breathe, smile, continue",
+      "swedish": "Rätt, andas, le, fortsätt",
+      "category": "Joy",
+      "generated_at": "2026-09-22T05:31:31.055478"
+    },
+    {
+      "english": "New word, soft laugh, yes",
+      "swedish": "Nytt ord, mjukt skratt, ja",
+      "category": "Joy",
+      "generated_at": "2026-09-22T05:31:31.055479"
+    },
+    {
+      "english": "You understood, your brain cheers",
+      "swedish": "Du fattade, hjärnan jublar",
+      "category": "Joy",
+      "generated_at": "2026-09-22T05:31:31.055481"
+    },
+    {
+      "english": "Say it again, easier",
+      "swedish": "Säg det igen, lättare",
+      "category": "Joy",
+      "generated_at": "2026-09-22T05:31:31.055482"
     }
   ],
-  "last_updated": "2026-09-22T00:40:16.405364"
+  "last_updated": "2026-09-22T05:31:31.055483"
 }
