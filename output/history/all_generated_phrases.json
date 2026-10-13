@@ -26549,7 +26549,37 @@
       "swedish": "Sikta på svenska, som en kompass mot norr",
       "category": "Purpose",
       "generated_at": "2026-10-12T22:44:28.575501"
+    },
+    {
+      "english": "I claim my Swedish space",
+      "swedish": "Jag tar min svenska plats",
+      "category": "Confidence",
+      "generated_at": "2026-10-13T01:04:42.412841"
+    },
+    {
+      "english": "Speak first, polish later",
+      "swedish": "Prata först, putsa sen",
+      "category": "Confidence",
+      "generated_at": "2026-10-13T01:04:42.412873"
+    },
+    {
+      "english": "My mistakes are loud teachers",
+      "swedish": "Mina misstag är högljudda lärare",
+      "category": "Confidence",
+      "generated_at": "2026-10-13T01:04:42.412877"
+    },
+    {
+      "english": "I pick words, not fear",
+      "swedish": "Jag väljer ord, inte rädsla",
+      "category": "Confidence",
+      "generated_at": "2026-10-13T01:04:42.412879"
+    },
+    {
+      "english": "Confidence enters when I speak",
+      "swedish": "Självförtroendet växer när jag pratar",
+      "category": "Confidence",
+      "generated_at": "2026-10-13T01:04:42.412882"
     }
   ],
-  "last_updated": "2026-10-12T22:44:28.575502"
+  "last_updated": "2026-10-13T01:04:42.412886"
 }
