@@ -26579,7 +26579,37 @@
       "swedish": "Självförtroendet växer när jag pratar",
       "category": "Confidence",
       "generated_at": "2026-10-13T01:04:42.412882"
+    },
+    {
+      "english": "Say kind things, gently.",
+      "swedish": "Säg snälla ord, mjukt.",
+      "category": "Kindness",
+      "generated_at": "2026-10-13T02:55:48.104920"
+    },
+    {
+      "english": "Offer space, without hurry.",
+      "swedish": "Ge utrymme, utan stress.",
+      "category": "Kindness",
+      "generated_at": "2026-10-13T02:55:48.104931"
+    },
+    {
+      "english": "Smile first, then listen.",
+      "swedish": "Le först, lyssna sen.",
+      "category": "Kindness",
+      "generated_at": "2026-10-13T02:55:48.104933"
+    },
+    {
+      "english": "Your words can heal, today.",
+      "swedish": "Dina ord kan hela, nu.",
+      "category": "Kindness",
+      "generated_at": "2026-10-13T02:55:48.104934"
+    },
+    {
+      "english": "Be gentle, even with errors.",
+      "swedish": "Var snäll, även mot misstag.",
+      "category": "Kindness",
+      "generated_at": "2026-10-13T02:55:48.104936"
     }
   ],
-  "last_updated": "2026-10-13T01:04:42.412886"
+  "last_updated": "2026-10-13T02:55:48.104937"
 }
