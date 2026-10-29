@@ -28979,7 +28979,37 @@
       "swedish": "Håll rötter, låt grenar nå",
       "category": "Confidence",
       "generated_at": "2026-10-29T01:57:45.521171"
+    },
+    {
+      "english": "Speak up now, Swedish follows.",
+      "swedish": "Prata nu, svenskan följer med.",
+      "category": "Confidence",
+      "generated_at": "2026-10-29T12:49:35.794321"
+    },
+    {
+      "english": "Your accent is music, go.",
+      "swedish": "Din accent är musik, kör.",
+      "category": "Confidence",
+      "generated_at": "2026-10-29T12:49:35.794329"
+    },
+    {
+      "english": "Say it imperfectly, then improve.",
+      "swedish": "Säg det fel, sen bli bättre.",
+      "category": "Confidence",
+      "generated_at": "2026-10-29T12:49:35.794331"
+    },
+    {
+      "english": "Confidence grows, when you practice.",
+      "swedish": "Självförtroende växer, när du övar.",
+      "category": "Confidence",
+      "generated_at": "2026-10-29T12:49:35.794332"
+    },
+    {
+      "english": "Ask first, learn fast.",
+      "swedish": "Fråga först, lär snabbt.",
+      "category": "Confidence",
+      "generated_at": "2026-10-29T12:49:35.794333"
     }
   ],
-  "last_updated": "2026-10-29T01:57:45.521173"
+  "last_updated": "2026-10-29T12:49:35.794335"
 }
