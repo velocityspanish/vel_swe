@@ -29009,7 +29009,37 @@
       "swedish": "Fråga först, lär snabbt.",
       "category": "Confidence",
       "generated_at": "2026-10-29T12:49:35.794333"
+    },
+    {
+      "english": "Speak Swedish, right now, move",
+      "swedish": "Prata svenska, just nu, kör",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T17:04:46.119693"
+    },
+    {
+      "english": "Say it wrong, learn faster, go",
+      "swedish": "Säg fel, lär snabbare, kör",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T17:04:46.119704"
+    },
+    {
+      "english": "Make space for effort, begin",
+      "swedish": "Skapa plats åt mödan, börja",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T17:04:46.119706"
+    },
+    {
+      "english": "Practice daily, let joy lead",
+      "swedish": "Öva varje dag, låt glädjen leda",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T17:04:46.119707"
+    },
+    {
+      "english": "Train your ear, catch meaning",
+      "swedish": "Träna örat, fånga meningen",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T17:04:46.119708"
     }
   ],
-  "last_updated": "2026-10-29T12:49:35.794335"
+  "last_updated": "2026-10-29T17:04:46.119710"
 }
