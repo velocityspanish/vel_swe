@@ -29429,7 +29429,37 @@
       "swedish": "Tacksamhet sjunger, mellan meningar",
       "category": "Happiness",
       "generated_at": "2026-11-01T01:23:15.817718"
+    },
+    {
+      "english": "Fear talks, you move anyway",
+      "swedish": "Rädslan pratar, du rör dig ändå",
+      "category": "Courage",
+      "generated_at": "2026-11-01T13:11:32.983165"
+    },
+    {
+      "english": "Courage means staying, not running",
+      "swedish": "Mod är att stanna, inte springa",
+      "category": "Courage",
+      "generated_at": "2026-11-01T13:11:32.983177"
+    },
+    {
+      "english": "Say it now, not later",
+      "swedish": "Säg det nu, inte sen",
+      "category": "Courage",
+      "generated_at": "2026-11-01T13:11:32.983179"
+    },
+    {
+      "english": "Choose the hard sentence",
+      "swedish": "Välj den svåra meningen",
+      "category": "Courage",
+      "generated_at": "2026-11-01T13:11:32.983180"
+    },
+    {
+      "english": "Brave isn’t loud, it’s honest",
+      "swedish": "Mod är inte högt, det är ärligt",
+      "category": "Courage",
+      "generated_at": "2026-11-01T13:11:32.983182"
     }
   ],
-  "last_updated": "2026-11-01T01:23:15.817720"
+  "last_updated": "2026-11-01T13:11:32.983184"
 }
