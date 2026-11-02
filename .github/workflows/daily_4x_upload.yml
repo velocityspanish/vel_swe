@@ -3,10 +3,10 @@ name: Velocity Swedish - Daily 5x Upload
 on:
   # Schedule 5 posts per day (American EST/EDT time)
   schedule:
-    - cron: '0 6 * * *'    # 7:00 AM Stockholm
-    - cron: '30 10 * * *'  # 11:30 AM Stockholm
-    - cron: '0 15 * * *'   # 4:00 PM Stockholm
-    - cron: '45 18 * * *'  # 7:45 PM Stockholm
+    #- cron: '0 6 * * *'    # 7:00 AM Stockholm
+    #- cron: '30 10 * * *'  # 11:30 AM Stockholm
+    #- cron: '0 15 * * *'   # 4:00 PM Stockholm
+    #- cron: '45 18 * * *'  # 7:45 PM Stockholm
     - cron: '30 22 * * *'  # 11:30 PM Stockholm
 
   # Allow manual trigger for testing
