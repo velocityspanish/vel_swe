@@ -29879,7 +29879,42 @@
       "swedish": "Välj ord med mjuka kanter",
       "category": "Wisdom",
       "generated_at": "2026-11-10T04:24:01.331528"
+    },
+    {
+      "english": "Be patient, it’s still coming.",
+      "swedish": "Var tålmodig, det kommer fortfarande.",
+      "transliteration": "var TÅlmodig, det KOMMER fortfarANDE",
+      "category": "Patience",
+      "generated_at": "2026-11-10T09:23:47.349268"
+    },
+    {
+      "english": "Take it slow, no need to rush.",
+      "swedish": "Ta det lugnt, du behöver inte stressa.",
+      "transliteration": "ta det LUGNT, du BEHÖVer inte STRESSa",
+      "category": "Patience",
+      "generated_at": "2026-11-10T09:23:47.349281"
+    },
+    {
+      "english": "Wait a moment, then try again.",
+      "swedish": "Vänta en stund, prova igen.",
+      "transliteration": "VÄNta en STUND, PROva IGEn",
+      "category": "Patience",
+      "generated_at": "2026-11-10T09:23:47.349283"
+    },
+    {
+      "english": "It’s okay to pause and reset.",
+      "swedish": "Det är okej att pausa och börja om.",
+      "transliteration": "DET är OKEJ att PAusa och BÖrja om",
+      "category": "Patience",
+      "generated_at": "2026-11-10T09:23:47.349284"
+    },
+    {
+      "english": "Let your pace be kinder today.",
+      "swedish": "Låt din takt vara snällare idag.",
+      "transliteration": "låt din TAKT vara SNLÄIare IDag",
+      "category": "Patience",
+      "generated_at": "2026-11-10T09:23:47.349286"
     }
   ],
-  "last_updated": "2026-11-10T04:24:01.331530"
+  "last_updated": "2026-11-10T09:23:47.349288"
 }
