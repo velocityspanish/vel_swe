@@ -29984,7 +29984,42 @@
       "transliteration": "fort-SEt, EEVEN om det kÄN-s rör-igt",
       "category": "Purpose",
       "generated_at": "2026-11-10T20:39:34.077992"
+    },
+    {
+      "english": "You’re improving, step by step, today.",
+      "swedish": "Du blir bättre, steg för steg, idag.",
+      "transliteration": "du biir bättre, steg för steg, ee-da",
+      "category": "Confidence",
+      "generated_at": "2026-11-10T22:01:18.965495"
+    },
+    {
+      "english": "It’s okay to pause, you’re learning.",
+      "swedish": "Det är okej att pausa, du lär.",
+      "transliteration": "det är o-kej att pau-sa, du lär",
+      "category": "Confidence",
+      "generated_at": "2026-11-10T22:01:18.965509"
+    },
+    {
+      "english": "Say it gently, then try again.",
+      "swedish": "Säg det mjukt, och försök igen.",
+      "transliteration": "säj det mjukt, och för-sök i-gen",
+      "category": "Confidence",
+      "generated_at": "2026-11-10T22:01:18.965510"
+    },
+    {
+      "english": "You can handle this sentence, easily.",
+      "swedish": "Du klarar den meningen, utan stress.",
+      "transliteration": "du klarar den me-ning-en, u-tan stress",
+      "category": "Confidence",
+      "generated_at": "2026-11-10T22:01:18.965511"
+    },
+    {
+      "english": "Your Swedish sounds brave, even with errors.",
+      "swedish": "Din svenska låter modig, även med fel.",
+      "transliteration": "din svens-ka lå-ter mo-dig, äv-en med fel",
+      "category": "Confidence",
+      "generated_at": "2026-11-10T22:01:18.965513"
     }
   ],
-  "last_updated": "2026-11-10T20:39:34.077994"
+  "last_updated": "2026-11-10T22:01:18.965514"
 }
