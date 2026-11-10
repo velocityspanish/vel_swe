@@ -29914,7 +29914,42 @@
       "transliteration": "låt din TAKT vara SNLÄIare IDag",
       "category": "Patience",
       "generated_at": "2026-11-10T09:23:47.349286"
+    },
+    {
+      "english": "Breathe in, then start slowly.",
+      "swedish": "Andas in, börja sedan långsamt.",
+      "transliteration": "an-das in, be-bör-ja se-dan lång-samt",
+      "category": "Success",
+      "generated_at": "2026-11-10T19:26:44.967173"
+    },
+    {
+      "english": "You can do it, one more try.",
+      "swedish": "Du kan, en gång till.",
+      "transliteration": "du kan, en gång till",
+      "category": "Success",
+      "generated_at": "2026-11-10T19:26:44.967189"
+    },
+    {
+      "english": "Listen closely, then answer in Swedish.",
+      "swedish": "Lyssna noga, svara på svenska.",
+      "transliteration": "lyss-na no-ga, sva-ra på svens-ka",
+      "category": "Success",
+      "generated_at": "2026-11-10T19:26:44.967190"
+    },
+    {
+      "english": "Keep it simple, you’ll be understood.",
+      "swedish": "Håll det enkelt, så blir du förstådd.",
+      "transliteration": "håll det en-kelt, så blir du för-stådd",
+      "category": "Success",
+      "generated_at": "2026-11-10T19:26:44.967191"
+    },
+    {
+      "english": "Speak with care, not with fear.",
+      "swedish": "Prata försiktigt, inte av rädsla.",
+      "transliteration": "praa-ta för-sik-tigt, in-te av räds-la",
+      "category": "Success",
+      "generated_at": "2026-11-10T19:26:44.967192"
     }
   ],
-  "last_updated": "2026-11-10T09:23:47.349288"
+  "last_updated": "2026-11-10T19:26:44.967194"
 }
