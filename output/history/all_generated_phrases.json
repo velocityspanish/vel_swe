@@ -30824,7 +30824,42 @@
       "transliteration": "Känn fötterna, fasta och stadiga.",
       "category": "Mindfulness",
       "generated_at": "2026-11-24T23:19:21.915555"
+    },
+    {
+      "english": "Be patient, even when it’s hard.",
+      "swedish": "Var tålmodig, även när det är svårt.",
+      "transliteration": "var tolmodig, även när det är svårt",
+      "category": "Patience",
+      "generated_at": "2026-11-25T22:52:10.812045"
+    },
+    {
+      "english": "I can wait, one step at a time.",
+      "swedish": "Jag kan vänta, ett steg i taget.",
+      "transliteration": "jag kan vänta, ett steg i taget",
+      "category": "Patience",
+      "generated_at": "2026-11-25T22:52:10.812058"
+    },
+    {
+      "english": "Slow down, your body understands.",
+      "swedish": "Sakta ner, kroppen förstår.",
+      "transliteration": "sakta ner, kroppen förstår",
+      "category": "Patience",
+      "generated_at": "2026-11-25T22:52:10.812059"
+    },
+    {
+      "english": "Let time do its part today.",
+      "swedish": "Låt tiden göra sitt idag.",
+      "transliteration": "lat tiden göra sitt idag",
+      "category": "Patience",
+      "generated_at": "2026-11-25T22:52:10.812060"
+    },
+    {
+      "english": "Try again later, no big rush.",
+      "swedish": "Prova igen senare, ingen stor stress.",
+      "transliteration": "prova igen senare, ingen stor stress",
+      "category": "Patience",
+      "generated_at": "2026-11-25T22:52:10.812061"
     }
   ],
-  "last_updated": "2026-11-24T23:19:21.915557"
+  "last_updated": "2026-11-25T22:52:10.812063"
 }
