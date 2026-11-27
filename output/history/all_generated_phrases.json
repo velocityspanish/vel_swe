@@ -30915,7 +30915,28 @@
       "transliteration": "Lugna tankarna, fortsätt framåt.",
       "category": "Balance",
       "generated_at": "2026-11-27T11:50:13.084880"
+    },
+    {
+      "english": "Happiness grows when I slow down.",
+      "swedish": "Lycka växer när jag saktar ner.",
+      "transliteration": "LYUH-ka växer när jag SAH-kar ner",
+      "category": "Happiness",
+      "generated_at": "2026-11-27T19:25:14.756430"
+    },
+    {
+      "english": "I choose kindness, and it returns.",
+      "swedish": "Jag väljer vänlighet, och den kommer tillbaka.",
+      "transliteration": "Jag VÄL-jer vän-lik-het, och den KOM-mer till-baka",
+      "category": "Happiness",
+      "generated_at": "2026-11-27T19:25:14.756442"
+    },
+    {
+      "english": "My chest feels lighter, just now.",
+      "swedish": "Mitt hjärta känns lättare, just nu.",
+      "transliteration": "Mitt JÄR-ta känns lätt-a-re, just nu",
+      "category": "Happiness",
+      "generated_at": "2026-11-27T19:25:14.756444"
     }
   ],
-  "last_updated": "2026-11-27T11:50:13.084882"
+  "last_updated": "2026-11-27T19:25:14.756446"
 }
