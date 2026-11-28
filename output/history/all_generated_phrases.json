@@ -30957,7 +30957,28 @@
       "transliteration": "Jag klarar dët här, en mening",
       "category": "Confidence",
       "generated_at": "2026-11-28T08:05:04.438611"
+    },
+    {
+      "english": "Hi! How’s it going today?",
+      "swedish": "Hej! Hur går det idag?",
+      "transliteration": "Hej, hur går det idag",
+      "category": "Introductions",
+      "generated_at": "2026-11-28T16:58:14.059122"
+    },
+    {
+      "english": "Hey, sorry for being late.",
+      "swedish": "Hej, förlåt att jag blev sen.",
+      "transliteration": "Hej, förlåt att jag blev sen",
+      "category": "Introductions",
+      "generated_at": "2026-11-28T16:58:14.059135"
+    },
+    {
+      "english": "Nice to meet you, I’m Alex.",
+      "swedish": "Kul att träffas, jag heter Alex.",
+      "transliteration": "Kul att träffas, jag heter Alex",
+      "category": "Introductions",
+      "generated_at": "2026-11-28T16:58:14.059136"
     }
   ],
-  "last_updated": "2026-11-28T08:05:04.438613"
+  "last_updated": "2026-11-28T16:58:14.059138"
 }
