@@ -30936,7 +30936,28 @@
       "transliteration": "Mitt JÄR-ta känns lätt-a-re, just nu",
       "category": "Happiness",
       "generated_at": "2026-11-27T19:25:14.756444"
+    },
+    {
+      "english": "I’ll speak, even if I stumble.",
+      "swedish": "Jag pratar, även om jag snubblar.",
+      "transliteration": "Jag pratar, även om jag snubblar",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T08:05:04.438597"
+    },
+    {
+      "english": "It’s fine, I’ll try again.",
+      "swedish": "Det är okej, jag provar igen.",
+      "transliteration": "Det är okej, jag provar igen",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T08:05:04.438609"
+    },
+    {
+      "english": "I can do this, one sentence.",
+      "swedish": "Jag klarar det här, en mening.",
+      "transliteration": "Jag klarar dët här, en mening",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T08:05:04.438611"
     }
   ],
-  "last_updated": "2026-11-27T19:25:14.756446"
+  "last_updated": "2026-11-28T08:05:04.438613"
 }
